@@ -95,7 +95,7 @@ The model also includes separate shipment order-date and delivery-date logic to 
 DAX measures were created to calculate key operational and business metrics.
 
 ---
-📈 Dashboard Pages with Dadhboard screenshots
+📈 Dashboard Pages 
 
 1. Executive Overview
 
